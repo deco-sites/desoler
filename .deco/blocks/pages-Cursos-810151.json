@@ -5,7 +5,21 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "Header"
+        "__resolveType": "site/sections/Header.tsx",
+        "navigation": {
+          "links": [],
+          "buttons": [
+            {
+              "id": "user-central",
+              "href": "https;//google.com.br",
+              "text": "Central do candidato",
+              "outline": true
+            }
+          ]
+        },
+        "logo": {
+          "src": "https://assets.decocache.com/desoler/a1956bb2-df69-4eac-91fa-a7b28a40bbd9/novalogo_cbiofmiami_1-1.png"
+        }
       }
     },
     {
